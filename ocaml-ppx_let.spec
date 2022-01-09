@@ -44,7 +44,7 @@ używających biblioteki ppx_let.
 
 %package devel
 Summary:	Monadic let-bindings - development part
-Summary(pl.UTF-8):	Monadowe wiązania let - cześć programistyczna
+Summary(pl.UTF-8):	Monadowe wiązania let - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
